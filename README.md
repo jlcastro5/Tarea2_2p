@@ -1,4 +1,4 @@
-# Informe Tarea 2
+# Informe Tarea 5
 1. OBJETIVOS 
 
    Objetivo general
@@ -18,9 +18,17 @@
    *SECCIÓN 9–1 Ecuaciones simultáneas en el análisis de circuitos*
    
     1.Con el método de sustitución, resuelva el siguiente conjunto de ecuaciones para IR1 e IR2
+
+    100I1 + 50I2 = 30
+    75I1 + 90I2 = 15
     
+    ![]()
+    
+    *Figura 2. Metodo de sustitucion.*
     
     3.Utilizando determinantes, resuelva el siguiente conjunto de ecuaciones para ambas corrientes:
+
+   
     
     5.Evalúe cada uno de los determinantes:
 
