@@ -216,7 +216,13 @@
         
     ![](https://github.com/jlcastro5/Tarea5/blob/726b918a2eac69bcac0f17b961a11232303ce1ee/Figura10-44.PNG)
     
+    ![](https://github.com/jlcastro5/Tarea5/blob/bcbd11afba2bf319b94130b974371949ad597f11/1.PNG)
     
+    ![](https://github.com/jlcastro5/Tarea5/blob/bcbd11afba2bf319b94130b974371949ad597f11/2.PNG)
+    
+    ![](https://github.com/jlcastro5/Tarea5/blob/bcbd11afba2bf319b94130b974371949ad597f11/3.PNG)
+    
+       
     
     Por lo demostrado en la formula, la unica manera de alterar la dencidad de flujo es variando la intencidad de corriente en el bobinado.
     
