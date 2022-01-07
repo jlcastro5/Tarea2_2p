@@ -9,7 +9,8 @@
       * 
 
 2. MARCO TEORICO
- ![]()
+
+   ![](https://github.com/jlcastro5/Tarea5/blob/befa180c1d31d107ba38308bbe11eb81fb16145d/MarcoTeoricoTarea5.jpeg)
 
 3. EXPLICACION Y RESOLUCION DE EJERCICIOS O PROBLEMAS
 
@@ -92,26 +93,29 @@
     
     ![](https://github.com/jlcastro5/Tarea5/blob/3decdf91fe97a2ca4e81a638b50e6714102e657a/Figura9-28.PNG)
     
-    ![]()
+    ![](https://github.com/jlcastro5/Tarea5/blob/e4576b8098346d55716fff38ef3f10e898c070ce/17.PNG)
     
-    ![]()
+    ![](https://github.com/jlcastro5/Tarea5/blob/e4576b8098346d55716fff38ef3f10e898c070ce/17.1.PNG)
+    
+    ![](https://github.com/jlcastro5/Tarea5/blob/e4576b8098346d55716fff38ef3f10e898c070ce/17.2.PNG)
     
     19.Determine los voltajes y sus polaridades apropiadas en cada uno de los resistores mostrados 
     en la figura 9-28.
     
     ![](https://github.com/jlcastro5/Tarea5/blob/3decdf91fe97a2ca4e81a638b50e6714102e657a/Figura9-28.PNG)
     
-    ![]()
+    ![](https://github.com/jlcastro5/Tarea5/blob/e4576b8098346d55716fff38ef3f10e898c070ce/19.PNG)
     
-    ![]()
     
     21.Resuelva para las corrientes de lazo en la figura 9-29 con su calculadora. 
 
     ![](https://github.com/jlcastro5/Tarea5/blob/3decdf91fe97a2ca4e81a638b50e6714102e657a/Figura9-29.PNG)
     
-    ![]()
+    ![](https://github.com/jlcastro5/Tarea5/blob/e4576b8098346d55716fff38ef3f10e898c070ce/EJERCICIO21.PNG)
     
-    ![]()
+    ![](https://github.com/jlcastro5/Tarea5/blob/e4576b8098346d55716fff38ef3f10e898c070ce/21CALCU.PNG)
+    
+    ![](https://github.com/jlcastro5/Tarea5/blob/e4576b8098346d55716fff38ef3f10e898c070ce/21CALCU.2.PNG)
 
     23.Determine el voltaje entre las terminales del puente abierto, A y B, en la figura 9-30. 
 
@@ -120,6 +124,12 @@
     ![]()
     
     ![]()
+    
+    25. Escriba las ecuaciones de lazo en la forma estándar para el circuito puente T mostrado en la figura 9-31.
+
+    ![](https://github.com/jlcastro5/Tarea5/blob/e4576b8098346d55716fff38ef3f10e898c070ce/Figura9-31.PNG)
+
+    ![](https://github.com/jlcastro5/Tarea5/blob/e4576b8098346d55716fff38ef3f10e898c070ce/Ejercicio25.PNG)
     
    *SECCIÓN 9–4 Método del voltaje en nodos*
    
