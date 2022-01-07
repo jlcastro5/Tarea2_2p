@@ -2,11 +2,15 @@
 1. OBJETIVOS 
 
    Objetivo general
-
+   
+   * Explicar y resolver los problemas presentados en los capítulos nueve y diez del libro "Principios de circuitos eléctricos" de Floyd mediante el uso de los conocimientos adquiridos en clases y el contenido del libro referente al desarrollo de ecuaciones simultaneas para encontrar un voltaje y las corrientes en el análisis de un circuito eléctrico de manera ágil, permitiéndonos identificar las características correspondientes y lograr resolver cualquier tipo de circuito con un análisis y razonamiento adecuado.
 
     Objetivos específicos
 
-      * 
+      * Identificar de una manera concreta las incognitas, resolver los circuitos mediante los los metodos de mallas y nodos para hallas los valores de las corrientes y voltajes correspondientes.
+      * Analizar de forma correcta los resultaos obtenidos, establecer la relación de los componentes en un simulador virtual y corroborar los resultados obtenidos 
+      de formateórica.
+      * Establecer los diferentes conocimientos sobre los campos magneticos, sus componentes y caracteristicas dentro de elementos. 
 
 2. MARCO TEORICO
 
@@ -262,8 +266,7 @@
     
     ![](https://github.com/jlcastro5/Tarea5/blob/bcbd11afba2bf319b94130b974371949ad597f11/4.PNG)
     
-    La imagen reprecenta a una sola espiral, esta en una revolución alcanzo 9 valores de voltaje maximo de 10v
-    60 revoluciones por segundo nos indican que en un segundo llego a los 10v en 540 veces.
+    La imagen reprecenta a una sola espiral, esta en una revolución alcanzo 9 valores de voltaje maximo de 10v 60 revoluciones por segundo nos indican que en un segundo llego a los 10v en 540 veces.
     Al instalar una segunda espiral este valor se duplicaria a 1080 picos.
    
    
@@ -273,6 +276,7 @@
 
 5. CONCLUSIONES
 
+   * El presente analisis permitio aplicar los metodos ya conocidos de resolucion de circuitos electricos de practicas anteriores, otrogo resultados confiables ya que fueron simulados, cada circuito reporto valores como resistencia total o corrientes en cada componente de dicho circuito para permitir obtener resultados y un analisis correcto, por lo tanto llegamos a comprender de una manera el funcionamiento del tema.
 
 
 6. BIBLIOGRAFÍA 
