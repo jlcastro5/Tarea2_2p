@@ -214,8 +214,12 @@
     15.¿Cómo se puede cambiar la densidad de flujo en la figura 10-44 sin alterar las características 
     físicas del núcleo?
     
+    ![](https://github.com/jlcastro5/Tarea5/blob/726b918a2eac69bcac0f17b961a11232303ce1ee/Figura10-44.PNG)
+    
     17.Determine a partir de las curvas de histéresis mostradas en la figura 10-45 qué material tiene 
     más retentividad.
+    
+    ![](https://github.com/jlcastro5/Tarea5/blob/726b918a2eac69bcac0f17b961a11232303ce1ee/Figura10-45.PNG)
 
    *SECCIÓN 10–5 Inducción electromagnética*
    
