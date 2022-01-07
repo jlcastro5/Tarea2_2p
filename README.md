@@ -271,9 +271,10 @@
     
     Cuando gira la espira de alambre, el anillo partido a la mitad (conmutador) frota con los contactos fijos (escobillas),
     mientras frota cada conmutador con las escobillas se produce un voltaje, al llegar a la parte rota, este voltaje llega a cero. 
-    La acción repetida de este ciclo provoca una variación de voltaje inducido mínimo.
+    La acción repetida de este ciclo provoca una variación de voltaje inducido mínimo
     
     
+      
     
     
     *25.Suponga que se agrega otra espira, a 90 grados de la primera, al generador de cd del problema 24. 
