@@ -20,56 +20,132 @@
     1.Con el método de sustitución, resuelva el siguiente conjunto de ecuaciones para IR1 e IR2
 
     100I1 + 50I2 = 30
+   
     75I1 + 90I2 = 15
     
-    ![]()
+    ![](https://github.com/jlcastro5/Tarea5/blob/3decdf91fe97a2ca4e81a638b50e6714102e657a/Ejercicio1.PNG)
     
     *Figura 2. Metodo de sustitucion.*
     
     3.Utilizando determinantes, resuelva el siguiente conjunto de ecuaciones para ambas corrientes:
 
-   
+    ![](https://github.com/jlcastro5/Tarea5/blob/3decdf91fe97a2ca4e81a638b50e6714102e657a/Eejercicio2.PNG)
     
     5.Evalúe cada uno de los determinantes:
 
+    ![](https://github.com/jlcastro5/Tarea5/blob/3decdf91fe97a2ca4e81a638b50e6714102e657a/ejercicio%205.PNG)
+    
+
     7.Resuelva para I1, I2, I3 en el siguiente conjunto de ecuaciones con determinantes:
+
+    ![](https://github.com/jlcastro5/Tarea5/blob/3decdf91fe97a2ca4e81a638b50e6714102e657a/Ejercicio7.PNG)
+    
+    ![](https://github.com/jlcastro5/Tarea5/blob/3decdf91fe97a2ca4e81a638b50e6714102e657a/Ejericicio7.1.PNG)
+    
+    ![](https://github.com/jlcastro5/Tarea5/blob/3decdf91fe97a2ca4e81a638b50e6714102e657a/Ejercicio7.2.PNG)
     
     9.Resuelva las dos ecuaciones simultáneas del problema 1 con su calculadora.
    
+    ![](https://github.com/jlcastro5/Tarea5/blob/3decdf91fe97a2ca4e81a638b50e6714102e657a/Calculadora9.1.PNG)
+    
+    ![](https://github.com/jlcastro5/Tarea5/blob/3decdf91fe97a2ca4e81a638b50e6714102e657a/Calculadora9.2.PNG)
 
    *SECCIÓN 9–2 Método de la corriente en ramas*
    
     11.Escriba la ecuación de la corriente de Kirchhoff para la asignación de corriente mostrada en 
     el nodo A en la figura 9-26.
     
+    ![](https://github.com/jlcastro5/Tarea5/blob/3decdf91fe97a2ca4e81a638b50e6714102e657a/Figura9-26.PNG)
+    
+    En este caso podemos tomar en cuenta la ley de la corriente de Kirchhoff que dice que las sumatoria de corrientes de entrada es igual a la sumatoria de corrientes de salidas en este caso observamos que la ∑I entradas =  ∑I salidas, por lo tanto ∑Ientrada - ∑Isalidas=0
+    
+    I1 = I2 + I3 
+    
+    I1- I2 - I3 = 0
+    
     13.Determine la caída de voltaje entre los extremos de cada resistor mostrado en la figura 9-26
     e indique la polaridad real.
     
+    ![](https://github.com/jlcastro5/Tarea5/blob/3decdf91fe97a2ca4e81a638b50e6714102e657a/Figura9-26.PNG)
+    
+    ![](https://github.com/jlcastro5/Tarea5/blob/3decdf91fe97a2ca4e81a638b50e6714102e657a/Ejercicio13.PNG)
+    
+    ![](https://github.com/jlcastro5/Tarea5/blob/3decdf91fe97a2ca4e81a638b50e6714102e657a/Ejercicio13.1.PNG)
+    
+    ![](https://github.com/jlcastro5/Tarea5/blob/3decdf91fe97a2ca4e81a638b50e6714102e657a/Ejercicio13.2.PNG)
+    
+    ![](https://github.com/jlcastro5/Tarea5/blob/3decdf91fe97a2ca4e81a638b50e6714102e657a/Ejercicio7.3.PNG)
+    
     15.En la figura 9-27, determine el voltaje entre las terminales de la fuente de corriente 
     (puntos A y B).
+    
+    ![](https://github.com/jlcastro5/Tarea5/blob/3decdf91fe97a2ca4e81a638b50e6714102e657a/Figura9-27.PNG)
+    
+    ![]()
+    
+    ![]()
    
    *SECCIÓN 9–3 Método de la corriente en lazos*
    
     17.Con el método de la corriente en lazos, determine las corrientes en los lazos que aparecen en la
     figura 9-28. 
     
+    ![](https://github.com/jlcastro5/Tarea5/blob/3decdf91fe97a2ca4e81a638b50e6714102e657a/Figura9-28.PNG)
+    
+    ![]()
+    
+    ![]()
+    
     19.Determine los voltajes y sus polaridades apropiadas en cada uno de los resistores mostrados 
     en la figura 9-28.
     
+    ![](https://github.com/jlcastro5/Tarea5/blob/3decdf91fe97a2ca4e81a638b50e6714102e657a/Figura9-28.PNG)
+    
+    ![]()
+    
+    ![]()
+    
     21.Resuelva para las corrientes de lazo en la figura 9-29 con su calculadora. 
 
+    ![](https://github.com/jlcastro5/Tarea5/blob/3decdf91fe97a2ca4e81a638b50e6714102e657a/Figura9-29.PNG)
+    
+    ![]()
+    
+    ![]()
+
     23.Determine el voltaje entre las terminales del puente abierto, A y B, en la figura 9-30. 
+
+    ![](https://github.com/jlcastro5/Tarea5/blob/3decdf91fe97a2ca4e81a638b50e6714102e657a/Figura9-30.PNG)
+    
+    ![]()
+    
+    ![]()
     
    *SECCIÓN 9–4 Método del voltaje en nodos*
    
     27.¿Cuáles son los valores de corriente de rama en la figura 9-32? En cada rama, muestre la dirección
     real de la corriente. 
     
+    ![](https://github.com/jlcastro5/Tarea5/blob/3decdf91fe97a2ca4e81a638b50e6714102e657a/Figura9-32.PNG)
+    
+    ![]()
+    
+    ![]()
+    
+    
     29.Use el análisis de nodos para determinar el voltaje en los puntos A y B con respecto a tierra en 
     la figura 9-33.
     
+    ![](https://github.com/jlcastro5/Tarea5/blob/3decdf91fe97a2ca4e81a638b50e6714102e657a/Figura9-33.PNG)
+    
+    ![]()
+    
     *31.Use el análisis de nodos, el de lazos, o cualquier otro procedimiento para determinar las corrientes y
     los voltajes en cada nodo desconocido en la figura 9-35.
+    
+    ![](https://github.com/jlcastro5/Tarea5/blob/3decdf91fe97a2ca4e81a638b50e6714102e657a/Figura9-35.PNG)
+    
+    ![]()
     
    
    **CAPITULO 10**
