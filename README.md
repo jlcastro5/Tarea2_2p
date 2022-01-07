@@ -83,8 +83,6 @@
     ![](https://github.com/jlcastro5/Tarea5/blob/3decdf91fe97a2ca4e81a638b50e6714102e657a/Figura9-27.PNG)
     
     ![]()
-    
-    ![]()
    
    *SECCIÓN 9–3 Método de la corriente en lazos*
    
@@ -123,8 +121,6 @@
     
     ![]()
     
-    ![]()
-    
     25. Escriba las ecuaciones de lazo en la forma estándar para el circuito puente T mostrado en la figura 9-31.
 
     ![](https://github.com/jlcastro5/Tarea5/blob/e4576b8098346d55716fff38ef3f10e898c070ce/Figura9-31.PNG)
@@ -138,17 +134,14 @@
     
     ![](https://github.com/jlcastro5/Tarea5/blob/3decdf91fe97a2ca4e81a638b50e6714102e657a/Figura9-32.PNG)
     
-    ![]()
-    
-    ![]()
-    
+    ![](https://github.com/jlcastro5/Tarea5/blob/c2dc4621568793ec86f27a39828d5bb379a81384/Ejercicio27.PNG)
     
     29.Use el análisis de nodos para determinar el voltaje en los puntos A y B con respecto a tierra en 
     la figura 9-33.
     
     ![](https://github.com/jlcastro5/Tarea5/blob/3decdf91fe97a2ca4e81a638b50e6714102e657a/Figura9-33.PNG)
     
-    ![]()
+    ![](https://github.com/jlcastro5/Tarea5/blob/c2dc4621568793ec86f27a39828d5bb379a81384/Ejercicio29.PNG)
     
     *31.Use el análisis de nodos, el de lazos, o cualquier otro procedimiento para determinar las corrientes y
     los voltajes en cada nodo desconocido en la figura 9-35.
@@ -177,18 +170,24 @@
     3.¿Cuál es el flujo en un material magnético cuando la densidad de flujo es de 2500 x 10^-6 T y el área
     de sección transversal mide 150 cm2?
     
-    
+    ![](https://github.com/jlcastro5/Tarea5/blob/c2dc4621568793ec86f27a39828d5bb379a81384/10-3.PNG)
     
     5.Un imán permanente muy fuerte tiene un campo magnético de 100,000 mT. Exprese esta densidad de
     flujo en gauss. 
+    
+    ![](https://github.com/jlcastro5/Tarea5/blob/c2dc4621568793ec86f27a39828d5bb379a81384/10-5.PNG)
     
    *SECCIÓN 10–2 Electromagnetismo*
    
     7.¿Cuál es la permeabilidad relativa de un material ferromagnético cuya permeabilidad absoluta es de
     750 x 10^-6 Wb/At·m?
     
+    ![](https://github.com/jlcastro5/Tarea5/blob/c2dc4621568793ec86f27a39828d5bb379a81384/10-7.PNG)
+    
     9.¿Cuál es la fuerza magnetomotriz en una bobina de 50 vueltas de hilo cuando hay 3 A de corriente a
     través de él?
+    
+    ![](https://github.com/jlcastro5/Tarea5/blob/c2dc4621568793ec86f27a39828d5bb379a81384/10-9.PNG)
    
    *SECCIÓN 10–3 Dispositivos electromagnéticos*
    
