@@ -165,8 +165,19 @@
     1.El área de sección transversal de un campo magnético se incrementa, pero el flujo no cambia. 
     ¿La densidad de flujo aumenta o disminuye?
     
+       B=∅/A
+       donde ∅ es el flujo (Wb) y A es el área de sección transversal en metros cuadrados (m2) del campo
+       magnético.
+       Como podemos observar en la formula, la densidad del campo magnético es directamente proporcional 
+       al flujo e inversamente proporcional al área de sección transversal, por lo cual podemos llegar a 
+       la conclusión en la cual, si el campo magnético se incrementa y el flujo se mantiene constante,
+       la densidad del flujo disminuiría. 
+
+    
     3.¿Cuál es el flujo en un material magnético cuando la densidad de flujo es de 2500 x 10^-6 T y el área
     de sección transversal mide 150 cm2?
+    
+    
     
     5.Un imán permanente muy fuerte tiene un campo magnético de 100,000 mT. Exprese esta densidad de
     flujo en gauss. 
@@ -183,9 +194,21 @@
    
     11.a) ¿Qué fuerza mueve el émbolo de imán cuando se activa un solenoide?
     b) ¿Qué fuerza hace que el émbolo de imán regrese a su posición de reposo?
+          
+       a) ¿Qué fuerza mueve el émbolo de imán cuando se activa un solenoide?
+       
+       El movimiento de este núcleo de hierro depende tanto del campo electromagnético
+       como de la fuerza mecánica de un resorte
+
+       b) ¿Qué fuerza hace que el émbolo de imán regrese a su posición de reposo?
+       
+       Cuando la corriente se interrumpe, los campos magnéticos colapsan y la fuerza
+       del resorte comprimido empuja el émbolo hacia atrás.
     
     13.¿Qué ocasiona que la aguja instalada en un movimiento de d’Arsonval se deflexione cuando circula 
     corriente a través de la bobina?
+    
+       La aguja se De flexiona en proporción a la cantidad de corriente que pasa a través de la bobina.
     
    *SECCIÓN 10–4 Histéresis magnética*
    
