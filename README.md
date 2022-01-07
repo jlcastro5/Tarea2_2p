@@ -148,7 +148,7 @@
     
     ![](https://github.com/jlcastro5/Tarea5/blob/3decdf91fe97a2ca4e81a638b50e6714102e657a/Figura9-35.PNG)
     
-    ![]()
+    
     
    
    **CAPITULO 10**
@@ -259,6 +259,12 @@
     *25.Suponga que se agrega otra espira, a 90 grados de la primera, al generador de cd del problema 24. 
     Trace una gráfica del voltaje contra el tiempo para mostrar cómo aparece el voltaje de salida. Sea de 10 V
     el voltaje máximo.
+    
+    ![](https://github.com/jlcastro5/Tarea5/blob/bcbd11afba2bf319b94130b974371949ad597f11/4.PNG)
+    
+    La imagen reprecenta a una sola espiral, esta en una revolución alcanzo 9 valores de voltaje maximo de 10v
+    60 revoluciones por segundo nos indican que en un segundo llego a los 10v en 540 veces.
+    Al instalar una segunda espiral este valor se duplicaria a 1080 picos.
    
    
 4. VIDEO
