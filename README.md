@@ -86,7 +86,7 @@
     
     ![](https://github.com/jlcastro5/Tarea5/blob/3decdf91fe97a2ca4e81a638b50e6714102e657a/Figura9-27.PNG)
     
-    ![]()
+    ![](https://github.com/jlcastro5/Tarea5/blob/4e6165ed067302950549af0b27937a24a4065555/Ejercicio15.PNG)
    
    *SECCIÓN 9–3 Método de la corriente en lazos*
    
@@ -123,9 +123,9 @@
 
     ![](https://github.com/jlcastro5/Tarea5/blob/3decdf91fe97a2ca4e81a638b50e6714102e657a/Figura9-30.PNG)
     
-    ![]()
+    ![](https://github.com/jlcastro5/Tarea5/blob/4e6165ed067302950549af0b27937a24a4065555/Ejercicio25.PNG)
     
-    25. Escriba las ecuaciones de lazo en la forma estándar para el circuito puente T mostrado en la figura 9-31.
+    25.Escriba las ecuaciones de lazo en la forma estándar para el circuito puente T mostrado en la figura 9-31.
 
     ![](https://github.com/jlcastro5/Tarea5/blob/e4576b8098346d55716fff38ef3f10e898c070ce/Figura9-31.PNG)
 
@@ -152,8 +152,7 @@
     
     ![](https://github.com/jlcastro5/Tarea5/blob/3decdf91fe97a2ca4e81a638b50e6714102e657a/Figura9-35.PNG)
     
-    
-    
+    ![](https://github.com/jlcastro5/Tarea5/blob/4e6165ed067302950549af0b27937a24a4065555/Ejercicio31.PNG)
    
    **CAPITULO 10**
    
