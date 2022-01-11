@@ -225,11 +225,7 @@
     
     ![](https://github.com/jlcastro5/Tarea5/blob/bcbd11afba2bf319b94130b974371949ad597f11/3.PNG)
     
-       
-    
-    Por lo demostrado en la formula, la unica manera de alterar la dencidad de flujo es variando la intencidad de corriente en el bobinado.
-    
-    
+    Por lo demostrado en la formula, la unica manera de alterar la densidad de flujo es variando la intencidad de corriente en el bobinado.
     
     17.Determine a partir de las curvas de histéresis mostradas en la figura 10-45 qué material tiene 
     más retentividad.
@@ -237,44 +233,28 @@
     ![](https://github.com/jlcastro5/Tarea5/blob/726b918a2eac69bcac0f17b961a11232303ce1ee/Figura10-45.PNG)
     
     El material A, ya que a pesar de que la intensidad del campo magnético (h) ha llegado a 0 este aun presenta una mayor densidad de flujo que los otros materiales 
-    
-
-
 
    *SECCIÓN 10–5 Inducción electromagnética*
    
     19.¿Cuáles son los tres factores que determinan el voltaje en un conductor que se mueve en dirección
     perpendicular al campo magnético?
     
-    Rapidez de cambio del campo magnético (incluye a la velocidad con respecto al tiempo)
+       Rapidez de cambio del campo magnético (incluye a la velocidad con respecto al tiempo)
     
-    Número de vueltas de la bobina 
-
-
-
+       Número de vueltas de la bobina 
 
     
     21.¿Cómo complementa la ley de Lenz a la ley de Faraday?
     
-    Define la polaridad o dirección del voltaje inducido 
-   
-   
-   
+       Define la polaridad o dirección del voltaje inducido 
    
    *SECCIÓN 10–6 Aplicaciones de la inducción electromagnética*
    
-   
-   
-   
     23.Explique el propósito del conmutador y de las escobillas en la figura 10-35.
     
-    Cuando gira la espira de alambre, el anillo partido a la mitad (conmutador) frota con los contactos fijos (escobillas),
-    mientras frota cada conmutador con las escobillas se produce un voltaje, al llegar a la parte rota, este voltaje llega a cero. 
-    La acción repetida de este ciclo provoca una variación de voltaje inducido mínimo
-    
-    
-      
-    
+       Cuando gira la espira de alambre, el anillo partido a la mitad (conmutador) frota con los contactos fijos (escobillas),
+       mientras frota cada conmutador con las escobillas se produce un voltaje, al llegar a la parte rota, este voltaje llega a cero. 
+       La acción repetida de este ciclo provoca una variación de voltaje inducido mínimo
     
     *25.Suponga que se agrega otra espira, a 90 grados de la primera, al generador de cd del problema 24. 
     Trace una gráfica del voltaje contra el tiempo para mostrar cómo aparece el voltaje de salida. Sea de 10 V
@@ -282,13 +262,13 @@
     
     ![](https://github.com/jlcastro5/Tarea5/blob/bcbd11afba2bf319b94130b974371949ad597f11/4.PNG)
     
-    La imagen reprecenta a una sola espiral, esta en una revolución alcanzo 9 valores de voltaje maximo de 10v 60 revoluciones por segundo nos indican que en un segundo llego a los 10v en 540 veces.
+   La imagen reprecenta a una sola espiral, esta en una revolución alcanzo 9 valores de voltaje maximo de 10v 60 revoluciones por segundo nos indican que en un segundo llego a los 10v en 540 veces.
     Al instalar una segunda espiral este valor se duplicaria a 1080 picos.
    
    
 4. VIDEO
 
-
+   https://www.youtube.com/watch?v=1a6eMe6fFys
 
 5. CONCLUSIONES
 
